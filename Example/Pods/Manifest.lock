@@ -1,10 +1,12 @@
 PODS:
-  - A (0.1.0)
+  - A (0.3.0):
+    - HandyFrame
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
+  - HandyFrame (1.2.0)
 
 DEPENDENCIES:
   - A (from `../`)
@@ -15,9 +17,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  A: f2536a918284b4677bf2fcca4cec19993296629d
+  A: bea328b5e5b8015a8f0e6e1d15b15e08554b1ce0
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
 
-PODFILE CHECKSUM: e6e566f33107492d3b8d227390223c40eacf32ce
+PODFILE CHECKSUM: 00da32a583e8887d83c4a53920d041718b02e840
 
 COCOAPODS: 1.4.0

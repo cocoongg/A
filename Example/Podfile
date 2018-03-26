@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'A_Example' do
   pod 'A', :path => '../'
-
+#  pod 'HandyFrame'
   target 'A_Tests' do
     inherit! :search_paths
 
